@@ -1,0 +1,11 @@
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\bin\Debug\GetDocumentsViaFTP.exe.config
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\bin\Debug\GetDocumentsViaFTP.exe
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\bin\Debug\GetDocumentsViaFTP.pdb
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\bin\Debug\FluentFTP.dll
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\bin\Debug\FluentFTP.xml
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\obj\Debug\GetDocumentsViaFTP.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\obj\Debug\GetDocumentsViaFTP.ftp_tester.resources
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\obj\Debug\GetDocumentsViaFTP.Properties.Resources.resources
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\obj\Debug\GetDocumentsViaFTP.csproj.GenerateResource.Cache
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\obj\Debug\GetDocumentsViaFTP.exe
+D:\Jabil\00__Project\_CHA\19-DGM TypeE\GetDocumentsViaFTP\GetDocumentsViaFTP\obj\Debug\GetDocumentsViaFTP.pdb
